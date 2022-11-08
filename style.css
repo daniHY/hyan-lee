@@ -77,7 +77,8 @@ hr{
 }
 
 .paroleimg{
-
+  margin:20px;
+  padding: 20px;
   width:800px;
 }
 .parole{
@@ -109,7 +110,4 @@ h2{
 .aboutme{
   font-size: 12px;
   width:500px;
-}
-.paroleimg{
-  margin:20px;
 }
