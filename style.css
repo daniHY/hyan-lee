@@ -111,3 +111,16 @@ h2{
   font-size: 12px;
   width:500px;
 }
+.blogmenu{
+  margin: 50px auto;
+  text-decoration: none;
+  color: black;
+}
+.blogmenu:hover{
+  text-decoration: line-through;
+}
+.blog{
+  margin: 30px;
+  padding: 20px;
+  margin-top: 50px;
+}
